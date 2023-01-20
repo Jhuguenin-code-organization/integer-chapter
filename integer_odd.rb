@@ -10,3 +10,10 @@
 #   false
 
 p "Enter an odd number:"
+their_number=gets
+s= their_number.to_i
+p s.odd?
+
+
+
+
